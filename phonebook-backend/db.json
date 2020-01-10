@@ -2,53 +2,53 @@
 
 let persons =[
     { 
-        "name": "Arto Hellas", 
-        "number": "040-123456",
+        "name": "Raaj Nhu", 
+        "number": "0237464",
         "id": 1
     },
     { 
-        "name": "Ada Lovelace", 
-        "number": "39-44-5323523",
+        "name": "Chun Murli", 
+        "number": "3230752095",
         "id": 2
     },
     { 
-        "name": "Dan Abramov", 
-        "number": "12-43-234345",
+        "name": "Lodu Lassan", 
+        "number": "52744503",
         "id": 3
     },
     { 
-        "name": "Mary Poppendieck", 
-        "number": "39-23-6423122",
+        "name": "Kamli Kumar", 
+        "number": "209375204",
         "id": 4
     },
     {
-        "name": "Kabama Ismail",
-        "number": "25677777",
+        "name": "Gurav sing",
+        "number": "2909734729",
         "id": 5
     },
     {
-        "name": "Sonenwa Kaminambeo",
-        "number": "2568932323",
+        "name": "Tapan Naga",
+        "number": "239595775",
         "id": 6
     },
     {
-        "name": "Maulidi",
-        "number": "255879980",
+        "name": "Kuran",
+        "number": "29547927502",
         "id": 7
     },
     {
-        "name": "Isa",
-        "number": "255879980",
+        "name": "Rupa",
+        "number": "209585875",
         "id": 8
     },
     {
-        "name": "Konde",
-        "number": "2523723723",
+        "name": "Monty",
+        "number": "193778454",
         "id": 9
     },
     {
-        "name": "Kilima",
-        "number": "2358367494",
+        "name": "Supan",
+        "number": "2303893498",
         "id": 10
     }
 ];
