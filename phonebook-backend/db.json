@@ -1,0 +1,55 @@
+
+
+let persons =[
+    { 
+        "name": "Arto Hellas", 
+        "number": "040-123456",
+        "id": 1
+    },
+    { 
+        "name": "Ada Lovelace", 
+        "number": "39-44-5323523",
+        "id": 2
+    },
+    { 
+        "name": "Dan Abramov", 
+        "number": "12-43-234345",
+        "id": 3
+    },
+    { 
+        "name": "Mary Poppendieck", 
+        "number": "39-23-6423122",
+        "id": 4
+    },
+    {
+        "name": "Kabama Ismail",
+        "number": "25677777",
+        "id": 5
+    },
+    {
+        "name": "Sonenwa Kaminambeo",
+        "number": "2568932323",
+        "id": 6
+    },
+    {
+        "name": "Maulidi",
+        "number": "255879980",
+        "id": 7
+    },
+    {
+        "name": "Isa",
+        "number": "255879980",
+        "id": 8
+    },
+    {
+        "name": "Konde",
+        "number": "2523723723",
+        "id": 9
+    },
+    {
+        "name": "Kilima",
+        "number": "2358367494",
+        "id": 10
+    }
+];
+
