@@ -115,15 +115,6 @@ app.put('/api/persons/:id', (request, response, next) => {
         })
         .catch(error => next(error));
 
-  // {$set: person} {upsert: true} { new: true }
-  /*
-  Person.findByIdAndUpdate(request.params.id, person, { new: true })
-    .then(updatedPerson => {
-      response.json(updatedPerson.toJSON())
-    })
-    .catch(error => next(error));
-    */
-});
 
 
 const unknownEndpoint = (request, response) => {
